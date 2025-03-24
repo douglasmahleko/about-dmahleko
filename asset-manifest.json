@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/about-dmahleko/static/css/main.915eefaa.css",
+    "main.js": "/about-dmahleko/static/js/main.c71830b8.js",
+    "static/media/kutsvaga.png": "/about-dmahleko/static/media/kutsvaga.12661d8ede901f251b1b.png",
+    "static/media/house.png": "/about-dmahleko/static/media/house.9d26a6c99917fc91d79b.png",
+    "static/media/block.png": "/about-dmahleko/static/media/block.b4f22a932ab22c9d0527.png",
+    "static/media/mahlekod.png": "/about-dmahleko/static/media/mahlekod.fde41d5f2b4f9ef2bfa9.png",
+    "static/media/douglasmahleko.pdf": "/about-dmahleko/static/media/douglasmahleko.b01bf18a04aa140060f6.pdf",
+    "index.html": "/about-dmahleko/index.html",
+    "main.915eefaa.css.map": "/about-dmahleko/static/css/main.915eefaa.css.map",
+    "main.c71830b8.js.map": "/about-dmahleko/static/js/main.c71830b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915eefaa.css",
+    "static/js/main.c71830b8.js"
+  ]
+}
